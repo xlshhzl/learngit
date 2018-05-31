@@ -1,2 +1,2 @@
 git is a contron system
-git is free software
+git is free software gpl
