@@ -1,2 +1,2 @@
-git is a system
+git is a contron system
 git is free software
